@@ -7,7 +7,7 @@ Hello world, this is my profile
 
 - 💬 Ask me about **AWS , DevOps tool , Linux**
 
-- 📫 How to reach me **kunaldarwatkar2001@gmail.com**
+- 📫 How to reach me **kunaldarwatkar9292@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
